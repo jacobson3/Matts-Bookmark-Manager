@@ -89,11 +89,11 @@
 				<Item Name="VIAnUtil Has Diagram.vi" Type="VI" URL="/&lt;vilib&gt;/addons/analyzer/_analyzerutils.llb/VIAnUtil Has Diagram.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="_LaunchHelp.vi" Type="VI" URL="../../../../../../help/_LaunchHelp.vi"/>
-			<Item Name="LV Config Read Boolean.vi" Type="VI" URL="../../../../lvconfig.llb/LV Config Read Boolean.vi"/>
-			<Item Name="LV Config Read String.vi" Type="VI" URL="../../../../lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="LV Config Write Boolean.vi" Type="VI" URL="../../../../lvconfig.llb/LV Config Write Boolean.vi"/>
-			<Item Name="LV Config Write String.vi" Type="VI" URL="../../../../lvconfig.llb/LV Config Write String.vi"/>
+			<Item Name="_LaunchHelp.vi" Type="VI" URL="/&lt;helpdir&gt;/_LaunchHelp.vi"/>
+			<Item Name="LV Config Read Boolean.vi" Type="VI" URL="../LV Config/lvconfig.llb/LV Config Read Boolean.vi"/>
+			<Item Name="LV Config Read String.vi" Type="VI" URL="../LV Config/lvconfig.llb/LV Config Read String.vi"/>
+			<Item Name="LV Config Write Boolean.vi" Type="VI" URL="../LV Config/lvconfig.llb/LV Config Write Boolean.vi"/>
+			<Item Name="LV Config Write String.vi" Type="VI" URL="../LV Config/lvconfig.llb/LV Config Write String.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
